@@ -24,4 +24,3 @@ spec:
   containers:
   - name: with-node-affinity
     image: nginx
-    
