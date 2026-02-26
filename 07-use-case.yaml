@@ -62,4 +62,3 @@ spec:
       containers:
       - name: web-app
         image: nginx:1.16-alpine
-        
