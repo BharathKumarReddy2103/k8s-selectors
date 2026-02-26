@@ -15,4 +15,3 @@ spec:
   containers:
   - name: with-node-anti-affinity
     image: nginx
-    
